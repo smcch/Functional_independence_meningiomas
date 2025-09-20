@@ -137,3 +137,4 @@ if st.button("Compute probability & points"):
 
 # Nota al pie
 st.caption("Adjust coefficients and ranges as needed. Probability uses your coefficients; points use the defined ranges.")
+
